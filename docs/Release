@@ -8,5 +8,5 @@ Components: main
 Description: Die Jailbreak Repository von Felix. Kompatibel mit Cydia und Sileo.
 
 SHA256:
- c53560e74b934b7d3fbf7ebdf76d862f2f1bb3782edf79cbc898ce60f6aa71a4 770 Packages.bz2
- e1661f233d42d1ebc7cc20e8ac7627e14564224a8c2163b8fdbf83569638c812 716 Packages.xz
+ 656545bce97bb9e37daa78b3171440fd9f0650db4333d13da6df3124e80423e5 781 Packages.bz2
+ 0c91a57111e6cfc192c9fb2e8ffa3dcb926619ebe1ef103ea660d2902173e1fe 720 Packages.xz
